@@ -1,0 +1,178 @@
+Table arrangement:
+
+             Top table (1)
+
+   5          4          3          2
+
+   9	      8		 7	    6
+
+  13 	     12 	11 	   10
+
+       16         15          14   
+
+1	Mike (v)
+	Jen
+	Bernard
+	Elizabeth
+	Chris
+	Keith
+	Tabz
+
+2	Jess Haney
+	Connor Hart
+	Emma Brownlee
+	James Speakman
+	Joe Jackson
+	Sarah Terjesen
+	Nicole Cartwright
+	Sophie Halliday
+	Chris Dearnley-Davison
+	Nat Joyce
+
+3	Robert Wallbank
+	Tess Leyland
+	Hilary Ainsworth
+	Alan Ainsworth
+	Eric Ainsworth
+	Irene Ainsworth
+	Norma Ridyard
+	Stephen Howarth
+	Nigel Crompton
+
+4	Katriana Green
+	Dave Green
+	Adam Dodd
+	Sam Broadhurst
+	Caroline Broadhurst
+	Barbara Johnson
+	Harry Johnson
+	Elaine Dodd
+	Sam Dodd
+	Brian Dodd
+
+5	Hettie Owen
+	Amy Potts
+	Maisie Potts (child, 9)
+	Kathryn Hughes
+	Aimee Knight
+	Josh Knight
+	Tom Craven
+	Mike Hughes
+	Claire Barker
+
+6	Peter Wallbank
+	Pat Wallbank
+	Charles Wallbank
+	Ann Wainwright
+	Stuart Critchley
+	Dave Critchley
+	Eileen Critchley
+	Kath Caunce
+	Ron Caunce
+
+7	Phil Wallbank
+	Fergel McConnon
+	Gemma Caunce
+	Nicola Critchley
+	Laura Wallbank
+	David Wallbank
+	Bradley Wallbank
+	Hayley Wallbank
+	Sarah Wallbank
+	Alex Hodson
+
+8	Coleen Dodd
+	Jimmy Dodd
+	Steve Calvert
+	Sarah Calvert
+	Andrea Helsby (v)
+	Andy Helsby
+	Steve Rostron
+	Tracy Rostron
+
+9	Ian Hughes
+	Angela Hughes
+	Ally Hardy
+	Josiah Hardy (baby, 6 months)
+	Ben Hardy
+	Paul Geering
+	James Phillips
+	Phillips baby (baby, < 1 month)
+	Kate Phillips
+	Felicity Knight
+	Peter Knight
+
+10	Ciaran Frost (v)
+	Diego Pedraza (v)
+	Paul Mills
+	Fran Webster
+	Harley Walsh
+	Stu Elliott
+	Dan Skinner
+	Steve Dolan
+	Emily Game
+	Stephanie Lawrie
+
+11	Ellen Richards
+	Katrina Calvert
+	Sally Tacon
+	Chloe Tasker
+	Chris Marlow
+	Dan Li
+	Ed Raby
+	David Tickle
+	Aideen Kane (rapeseed oil allergy)
+	Lauren Boden
+	Igor Orlowski
+
+12	Corrine Mackay
+	Kevin Mackay
+	Phillip Binns
+	Ian Binns
+	Linda Binns
+	Marie Waite
+	Dave Waite
+	Kevin Binns
+	Jeanette Binns
+
+13	Shirley Potts
+	Debs Attwater
+	David Attwater
+	Ian Lofthouse
+	Joy Lofthouse
+	Sarah Lofthouse (serious nut allergy)
+	Louise Lofthouse
+	David Potts
+
+14	Danny Lorimer
+	Will Chalk (v)
+	Chloe Simpson
+	Frankie Deane
+	Cos Robertson
+	Tim Newman
+	Will Mycroft
+	Sabrina Vashisht (v)
+
+15	Andy Scarff
+	Joanna Cholewa
+	Alex Bee
+	Manu Bernhard
+	Amy Moores
+	Tom Kennely
+	Dave Woodward (v)
+	Calum Macdonald (v)
+	Robyn Bailey (v)
+	Christie Thiesse
+	Matt Thiesse
+
+16	Hanqi Anita
+	Oksana Streltsova
+	Karl Warburton
+	Lizzie Davies (v)
+	Luke Vinton (v)
+	Sam Smith
+	Alex Booth
+	Tristan Blackburn (v)
+	David Pavel
+	Rob Ainsworth
+	Lucius (child, 4)
